@@ -3,7 +3,7 @@
   "displayName": "EaseBedrock",
   "publisher": "PixelDevStudios",
   "description": "an extension dedicated to facilitating the creation of add-ons for Minecraft Bedrock",
-  "version": "0.0.1-beta",
+  "version": "0.0.2",
   "icon": "images/bedrockIcon.png",
   "engines": {
     "vscode": "^1.125.0"
