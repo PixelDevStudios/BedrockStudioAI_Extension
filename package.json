@@ -1,7 +1,7 @@
 {
   "name": "easebedrock",
   "displayName": "EaseBedrock",
-  "publisher": "Bedrock Studio",
+  "publisher": "Pixel Dev Studios",
   "description": "an extension dedicated to facilitating the creation of add-ons for Minecraft Bedrock",
   "version": "0.0.1",
   "engines": {
